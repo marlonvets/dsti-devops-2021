@@ -3,16 +3,16 @@
 
 For the DevOps course, it is required:
 
-1. Familarity with command line interface (CLI)
+1. Familiarity with command-line interface (CLI)
 2. Understanding Web and database technologies
-3. Basic programming skills on any language
+3. Basic programming skills in any language
 
-## 1. Familarity with command line interface (CLI)
+## 1. Familiarity with command-line interface (CLI)
 
 - Windows   
-  use [Git Bash](https://gitforwindows.org/) or PowerShell instead of default CMD. You will have the same syntax and commands like on Linux environment. It is recommended because the most of software is running on Linux servers.
+  use [Git Bash](https://gitforwindows.org/) or PowerShell instead of default CMD. You will have the same syntax and commands as in the Linux environment. It is recommended because the most of software is running on Linux servers.
 - Linux/macOS   
-  Use default Terminal. You can customise it with lots of open-source utilities, follow this link.
+  Use default Terminal. You can customize it with lots of open-source utilities, follow this link.
 
 Learn the most common Bash commands - http://web.cs.ucla.edu/~miryung/teaching/EE461L-Spring2012/labs/posix.html
 
@@ -26,7 +26,7 @@ References:
 
 ## 3. Basic programming skills
 
-Javascript (Node.js) is chosen to built a basic web application. In the classes, we will create a simple http-server exposing [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer). The source code will be covered by unit (functional, integration, etc.) tests.
+Javascript (Node.js) is chosen to build a basic web application. In the classes, we will create a simple http-server exposing [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer). The source code will be covered by unit (functional, integration, etc.) tests.
 
 Instead of using Node.js, you can use another programming language (Python, PHP, C++, Java, Ruby...) up to your choice. In this case, the functionality of the application must be similar to the provided one by the teacher, and it requires:
 

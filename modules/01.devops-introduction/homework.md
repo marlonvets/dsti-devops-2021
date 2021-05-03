@@ -1,5 +1,5 @@
 
-## Homework
+# Homework
 
 1. Read the article ["DevOps: Principles, Practices, and DevOps Engineer Role"](https://www.altexsoft.com/blog/engineering/devops-principles-practices-and-devops-engineer-role/)
 

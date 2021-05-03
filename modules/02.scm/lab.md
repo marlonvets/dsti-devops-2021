@@ -16,7 +16,7 @@ This workshop can be done **in groups of 2-3 people**.
 ## Before starting
 
 1. Create a GitHub account: https://github.com/
-2. Install GitHub Desktop from this url: https://desktop.github.com/
+2. Install GitHub Desktop from this URL: https://desktop.github.com/
 3. Install an IDE or text editor (ex: https://code.visualstudio.com/ or https://atom.io/)
 
 ## 1. Perform the GitHub Desktop Tutorial
@@ -28,7 +28,7 @@ This workshop can be done **in groups of 2-3 people**.
 
 ## 2. Create a repository and clone it on your computer
 
-**A single member** of the group creates a repository:
+**A single-member** of the group creates a repository:
 
 1. Log in to [Github.com](https://github.com/)
 2. Navigate to the **"Your repositories"** page
@@ -51,7 +51,7 @@ You now have a copy of the local repository
 
 ## 3. Create a branch and navigate between branches
 
-**A single member** of the group creates the `develop` branch:
+**A single-member** of the group creates the `develop` branch:
 
 1. In GitHub Desktop: **Current branch → New branch**
 
@@ -97,26 +97,26 @@ Alternately, each member merges the new branches into `develop`:
 8. Push your changes
 9. **The 2nd member** of the group will encounter a conflict:
   - Open your IDE as suggested by GitHub Desktop
-  - The conflict materialize as follows:
+  - The conflict materializes as follows:
   
   ![Merge conflict](image/merge.png)
 
-  - To resolve the conflict, keep either the `HEAD` part, or the `dev-firstname` part and delete the other lines (including the `====` and `>>>>` lines)
+  - To resolve the conflict, keep either the `HEAD` part or the `dev-firstname` part and delete the other lines (including the `====` and `>>>>` lines)
   - Once the lines are deleted you can commit the merge from GitHub Desktop:
 
   ![Resolve conflict](image/resolve-conflict.png)
 
-## 6. Redo the lab using command line interface (CLI)
+## 6. Redo the lab using the command-line interface (CLI)
 
 The goal is to redo the same actions as before with the command line.
-For this you must have a terminal and GIT installed by default on Linux or MacOS.
+For this, you must have a terminal and GIT installed by default on Linux or macOS.
 
 For the installation:
 - Windows: https://gitforwindows.org/
 - Linux: https://git-scm.com/download/linux
-- MacOS: https://git-scm.com/download/mac
+- macOS: https://git-scm.com/download/mac
 
-You can now open Terminal (on Linux or MacOS) or Git Bash (on Windows).
+You can now open Terminal (on Linux or macOS) or Git Bash (on Windows).
 
 You can find a detailed list of the different Git CLI commands:
 - https://gist.github.com/aquelito/8596717

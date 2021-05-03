@@ -8,18 +8,18 @@ Source control management (SCM) refers to tools that help you keep track of your
 ## Why SCM?
 
 - How to share the work?
-- How to keep track of changes and its authors?
+- How to keep track of changes and their authors?
 
 ## History
 
 - The concept started with engineering   
-  **Drawing and project offices evolved a robust system for dealing with engineering processes, and thus were born the fledgling change control and release systems.**
+  **Drawing and project offices evolved a robust system for dealing with engineering processes and thus were born the fledgling change control and release systems.**
 - Modern implementation in software development since ~1980
 - Git started in 2005
 
 ## What do you manage?
 
-- Code, or any **text based** projects (like all the configurations needed for the project)
+- Code, or any **text-based** projects (like all the configurations needed for the project)
 - Manage project versions
   - Global project version (tags)
   - Each modification is a «version»
@@ -59,12 +59,12 @@ Learn git - https://git-scm.com/doc
 
 - **Branches** - independent set of commits
 - So far all commits are on the **master** branch
-- Branch can be an abstraction for line of development
+- Branch can be an abstraction for a line of development
   - **master** is the stable, tested version of the project
   - **develop** is the place where features come together
   - **feature** is the branch for a single feature
 
-Branch can be temporary:
+A branch can be temporary:
   - To have a change request
   - To develop an independent feature
     
@@ -78,18 +78,18 @@ So far:
 
 - changes are managed, not the project
 - all the commits come one after the other
-- the only version available is the commit id
+- the only version available in the commit id
 
 **Tagging** versions:
 
 - Tag a **commit** to be a particular software version
-- Easier to identify the versions
+- It easier to identify the versions
 - You have to **push** the tags
 
 ## Git: merge & conflicts
 
 - Branches can be merged to have all the changes in only one branch
-- When multiple changes are in conflict with each other, the merge fails: `Automatic merge failed; fix conflicts and then commit the result.`
+- When multiple changes conflict with each other, the merge fails: `Automatic merge failed; fix conflicts and then commit the result.`
 - Solutions:
   - Cherrypick the changes (can be quite long)
   - Abandon your changes (and put them back later)

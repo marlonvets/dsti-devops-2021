@@ -1,3 +1,4 @@
+
 # DSTI DevOps course
 
 Materials for the DevOps course at DSTI.
@@ -6,9 +7,9 @@ Materials for the DevOps course at DSTI.
 
 For the DevOps course, it is required:
 
-1. Familarity with command line interface (CLI)
+1. Familiarity with the command-line interface (CLI)
 2. Understanding Web and database technologies
-3. Basic programming skills on any language
+3. Basic programming skills in any language
 
 [Read more](PREREQUISITES.md)
 

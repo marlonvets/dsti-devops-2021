@@ -1,12 +1,12 @@
 
 # Introduction to DevOps
 
-The DevOps culture focuses on one goal throughout the entire software delivery lifecycle (not just development and operations): the rapid implementation of stable, high-quality software, from concept to customer or user. The automation of software development, testing and deployment is a recognized key factor for DevOps. Automation enables faster software implementation and ensures the solutions have the quality, security and stability they need.
+The DevOps culture focuses on one goal throughout the entire software delivery lifecycle (not just development and operations): the rapid implementation of stable, high-quality software, from concept to customer or user. The automation of software development, testing, and deployment is a recognized key factor for DevOps. Automation enables faster software implementation and ensures the solutions have the quality, security, and stability they need.
 
 ## DevOps
 
 - **DevOps** is a culture of human communication, technical processes, and tools
-- **DevOps** is breaking barriers between Developers and Operations by automating the processes, in order that they can build, test, and release software faster and more reliably.
+- **DevOps** is breaking barriers between Developers and Operations by automating the processes, so that they can build, test, and release software faster and more reliably.
 
 ## Why DevOps?
 
@@ -50,12 +50,12 @@ The DevOps culture focuses on one goal throughout the entire software delivery l
 
 - Companies were focused on planning and documenting their software development cycles
 - Agile Manifesto in 2001 - https://agilemanifesto.org/
-- Agile principals were applied to software development
+- Agile principles were applied to software development
 - In 2014, we started speaking about DevOps (in [Site Reliability Engineering](https://landing.google.com/sre/books/))
 
 [Read more](https://www.atlassian.com/agile/manifesto)
 
-## Agile vs Whaterfall
+## Agile vs Waterfall
 
 ![Agile vs Whaterfall](image/waterfall-and-agile-methods.jpg)
 
@@ -74,7 +74,7 @@ That is, while there is value in the items on the right, we value the items on t
 
 ## Agile Principles
 
-- Customer satisfaction is top priority
+- Customer satisfaction is a top priority
 - Project requirements can change
 - Do frequent deliveries
 - Business & Devs must collaborate throughout the project
@@ -84,7 +84,7 @@ That is, while there is value in the items on the right, we value the items on t
 - Project pace should be sustainable and be maintained
 - Pay attention to technical aspects and design
 - Keep it simple
-- Teams should be self-organised
+- Teams should be self-organized
 - Reflect on the progress and process used regularly
 
 ## Scrum
@@ -132,8 +132,8 @@ Examples:
 ```
 
 `MAJOR` - version when you make incompatible API changes,
-`MINOR` - version when you add functionality in a backwards compatible manner, and
-`PATCH` - version when you make backwards compatible bug fixes.
+`MINOR` - version when you add functionality in a backward compatible manner, and
+`PATCH` - version when you make backward compatible bug fixes.
 `LABEL` - for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
 [Read more about SemVer](https://semver.org/)
