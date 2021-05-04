@@ -118,3 +118,12 @@ Provides from basic issue tracking to scrum and kanban style
 - DevOps pipeline traceability
 
 [Read more about GitLab project management](https://about.gitlab.com/solutions/project-management/).
+
+## Git flow strategies
+
+- Git Flow
+- GitHub Flow
+- GitLab Flow
+- One Flow
+
+[Read more](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
