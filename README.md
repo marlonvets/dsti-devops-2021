@@ -30,6 +30,7 @@ For the DevOps course, it is required:
 The materials are contained in the Markdown files in the [modules](modules) folders. The folders contains following files:
 
 - `index.md` - materials for the module
+- `slides.pdf` - PDF slides
 - `lab.md` - labs description
 - `homework.md` - homework description
 - `assets` folder - assets provided for the labs
