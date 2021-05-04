@@ -131,10 +131,10 @@ Examples:
 1.0.0-beta
 ```
 
-`MAJOR` - version when you make incompatible API changes,
-`MINOR` - version when you add functionality in a backward compatible manner, and
-`PATCH` - version when you make backward compatible bug fixes.
-`LABEL` - for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
+- `MAJOR` - version when you make incompatible API changes,
+- `MINOR` - version when you add functionality in a backward compatible manner, and
+- `PATCH` - version when you make backward compatible bug fixes.
+- `LABEL` - for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
 [Read more about SemVer](https://semver.org/)
 
