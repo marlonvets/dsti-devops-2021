@@ -3,16 +3,18 @@
 
 For the DevOps course, it is required:
 
-1. Familiarity with command-line interface (CLI)
+1. Familiarity with [command-line interface (CLI)
 2. Understanding Web and database technologies
 3. Basic programming skills in any language
 
 ## 1. Familiarity with command-line interface (CLI)
 
+[Link to Wikipedia page](https://en.wikipedia.org/wiki/Command-line_interface)
+
 - Windows   
   use [Git Bash](https://gitforwindows.org/) or PowerShell instead of default CMD. You will have the same syntax and commands as in the Linux environment. It is recommended because the most of software is running on Linux servers.
 - Linux/macOS   
-  Use default Terminal. You can customize it with lots of open-source utilities, follow this link.
+  Use default Terminal. You can customize it with lots of open-source utilities, follow this [link](https://medium.com/@smile2gether/how-to-customize-your-mac-os-terminal-880c4097b18b).
 
 Learn the most common Bash commands - http://web.cs.ucla.edu/~miryung/teaching/EE461L-Spring2012/labs/posix.html
 
@@ -20,8 +22,8 @@ Learn the most common Bash commands - http://web.cs.ucla.edu/~miryung/teaching/E
 
 References:
 
-- About REST API - https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
-- NoSQL databases (Redis, MongoDB)
+- [About REST API](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
+- [NoSQL databases](https://www.mongodb.com/nosql-explained) (Redis, MongoDB) ([Wikipedia page]((https://en.wikipedia.org/wiki/NoSQL) ))
 - SQL databases (MySQL, PostgreSQL)
 
 ## 3. Basic programming skills
