@@ -7,8 +7,8 @@ Infrastructure as code
 
 This workshop can be done **on your own, or in groups of 2-3 people**.
 
-1. Part 1 - Using Vagrant with Shell Provisioner
-2. Part 2 - GitLab installation using Vagrant and Ansible Provisioner
+1. Part 1. Using Vagrant with Shell Provisioner
+2. Part 2. GitLab installation using Vagrant and Ansible Provisioner
 
 ## Before starting
   
@@ -42,13 +42,9 @@ This workshop can be done **on your own, or in groups of 2-3 people**.
   Enter your choice: 3
   ```
 
-5. Clone the lab repository to your computer:
+5. Download [assets](assets) files to your computer (using `git clone <URL>`)
 
-```bash
-git clone https://github.com/adaltas/ece-devops-2020-fall.git
-```
-
-## Part 1 - Using Vagrant with Shell Provisioner
+## Part 1. Using Vagrant with Shell Provisioner
 
 ### 1. Prepare a virtual environment
 
@@ -57,7 +53,7 @@ The next step once you’ve installed Vagrant is to create a `Vagrantfile` and c
 Go to the [`assets/part-1`](assets/part-1) directory and take a look at the [`Vagrantfile`](assets/part-1/Vagrantfile):
 
 ```bash
-cd ece-devops-2020-fall/modules/3-infrustructure-as-code/assets/part-1
+cd assets/part-1
 ```
 
 ### 2. Create a virtual machine (VM)
@@ -131,7 +127,7 @@ Then run:
 vagrant provision
 ```
 
-## Part 2 - GitLab installation using Vagrant and Ansible Provisioner 
+## Part 2. GitLab installation using Vagrant and Ansible Provisioner 
 
 We will install Gitlab on CentOS as described in [the official documentation](https://about.gitlab.com/install/#centos-7). You can try to repeat those steps manually one after another on the VM configured in part 1 of the lab. Usually, when we are installing first time a new software in a testing environment, we do it manually to test each step, and then, after clarifying all the installation processes we automatize it using tools like Vagrant and Ansible. 
 
