@@ -20,10 +20,9 @@ For the DevOps course, it is required:
 3. [Infrastructure as code (IaC) | with Ansible](modules/03.infrustructure-as-code)
 4. [Continuous Testing, Continuous Integration & Continuous Delivery (CI/CD) | with GitHub Actions and Heroku](modules/04.ct-ci-cd)
 5. [Containerization | with Docker](modules/05.docker-containers)
-6. Containers orchestration | with Docker Compose
-7. Containers orchestration | with Kubernetes
-8. Cloud-native applications, Microservices & Service mesh | with Istio
-9. Monitoring
+6. [Containers orchestration | with Kubernetes](modules/06.container-orchestration)
+7. Cloud-native applications, Microservices & Service mesh | with Istio
+8. Monitoring
 
 ## Structure of modules
 
