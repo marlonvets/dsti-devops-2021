@@ -21,7 +21,7 @@ For the DevOps course, it is required:
 4. [Continuous Testing, Continuous Integration & Continuous Delivery (CI/CD) | with GitHub Actions and Heroku](modules/04.ct-ci-cd)
 5. [Containerization | with Docker](modules/05.docker-containers)
 6. [Containers orchestration | with Kubernetes](modules/06.container-orchestration)
-7. Cloud-native applications, Microservices & Service mesh | with Istio
+7. [Cloud-native applications, Microservices & Service mesh | with Istio](modules/07.cloud-native)
 8. Monitoring
 
 ## Structure of modules
