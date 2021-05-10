@@ -97,7 +97,7 @@ minikube service $SERVICE_NAME
 2. Make sure that you have 5 pods running using one of the commands we have seen in part 2 of the lab. Which command did you use?
 
 3. Open the exposed service through your web browser again.
-   Force refresh a couple times using `CTRL+F5`
+   Force refresh a couple of times using `CTRL+F5`
    What is happening? Why?
    
 4. Scale down again your deployment to 2 pods and confirm the other 3 are not running anymore.
