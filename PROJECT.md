@@ -2,7 +2,7 @@
 
 ## Deadline
 
-Will be set...
+June 30, 2021
 
 ## Opportunities
 
