@@ -43,9 +43,9 @@ The course assignment is consist of:
   See the [project description](PROJECT.md).
 
 2. MCQ exam (multiple choice questions)   
-  The exam will contain around 30 questions with multiple choice and you will have 45-60 mins to complete your answers. It will be made of 2 parts:
-  - ~15 theory questions(based on the materials on GitHub and slides from the blackboard)
-  - ~15 practical questions (knowledge on using CLI tools such as `git`, `docker`, `kubectl`, etc...)
+  The exam contains 30 questions and you will have 45-60 mins to complete your answers. It will be made of 2 parts:
+  - 15 theory questions (based on the materials on GitHub and slides from the blackboard)
+  - 15 practical questions (knowledge on using CLI tools such as `git`, `docker`, `kubectl`, etc...)
 
 ## Author
 
