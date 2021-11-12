@@ -115,9 +115,13 @@ Here is an example structure of your project repository:
 
 ```
 .github/
-src/
-test/
-conf/
+userapi/
+  src/
+  test/
+  conf/
+  CHANGELOG.md
+  package.json
+  ...
 iac/
   Vagrantfile
   playbooks/
@@ -125,7 +129,7 @@ k8s/
 istio/
 image/
 README.md
-CHANGELOG.md
+docker-compose.yaml
 Dockerfile
 <Other configuration files like: package.json>
 ...
