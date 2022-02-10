@@ -17,7 +17,28 @@ module.exports = {
       callback(null, res) // Return callback
     })
   },
-  // get: (username, callback) => {
+	get: (username, callback) => {
+	  
+        client.get(username, async (err, jobs) => {
+            if (err) throw err;
+            if (jobs) {
+                res.status(200).send({
+                    jobs: JSON.parse(jobs),
+                    message: "data retrieved from the cache"
+                });
+            } else {
+                
+                res.status(200).send({
+                     
+                    message: "cache miss"
+                });
+            }
+	  
+	  
+	  
   //   // TODO create this method
-  // }
+    }
+	)
 }
+}
+   
